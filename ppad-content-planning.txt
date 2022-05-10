@@ -1,5 +1,6 @@
 PPAD Content Planning:
 - DCT Maintenance Web
   * Trial template
-    ^ From git
+    ^ Ticketing 1
+    ^ Help Desk
 - Restaurant
