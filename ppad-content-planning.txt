@@ -1,3 +1,4 @@
 PPAD Content Planning:
 - DCT Maintenance Web
+  * Trial template
 - Restaurant
