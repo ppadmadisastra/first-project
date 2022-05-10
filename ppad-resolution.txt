@@ -1,4 +1,4 @@
 There are many resolution that I want to do:
 - Learn git, github, gitlab
 - Learn reactjs
-- Learn react native
+- Creating a project
